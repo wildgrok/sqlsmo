@@ -25,6 +25,8 @@ import time
 import datetime
 import subprocess
 
+
+
 # --------------Functions-----------------------------------------------------------------------------
 def SqlExecute(conn, sqlquery=''):
 
